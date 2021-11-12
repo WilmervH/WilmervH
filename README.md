@@ -5,5 +5,7 @@
 3.  What is time and does it even exist
 
     :exclamation: Exception in thread "main"
+
     java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+    
 	at Main.main(Main.java:14)
